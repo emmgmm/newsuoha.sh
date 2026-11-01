@@ -1,4 +1,4 @@
-# New-Suoha: Cloudflare Argo + Xray 一键全自动脚本
+# 固定隧道改写版
 
 轻量、极速、开箱即用的多协议隧道穿透脚本。支持在主流 Linux 系统的 VPS 上一键并发部署 **VLESS-WS** 与 **Trojan-WS** 节点，通过 Cloudflare Argo 隧道实现穿透免开端口，同时矩阵式输出多组优选 CDN 域名与 443 TLS 节点，并由本地内置 HTTP 服务提供全自动化订阅及主流客户端导入配置。
 

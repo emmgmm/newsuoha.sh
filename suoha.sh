@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# suoha.sh —— 固定域名版（改写版）
+# suoha.sh —— 固定隧道改写版
 #
 # 与原版“梭哈模式”（Cloudflare 临时隧道 trycloudflare.com）的区别：
 #   1. 不用临时隧道，改用你在 Cloudflare 控制台事先建好的 Named Tunnel，
